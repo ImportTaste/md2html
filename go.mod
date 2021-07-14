@@ -1,4 +1,4 @@
-module github.com/ttys3/md2html
+module github.com/ImportTaste/md2html
 
 go 1.13
 
